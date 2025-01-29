@@ -1,1 +1,2 @@
 # CaptchaGen
+A Captcha Generator
